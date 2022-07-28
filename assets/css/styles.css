@@ -107,7 +107,7 @@ body {
     background-color: var(--dark1);
     width: 100%;
     text-align: center;
-    transition: 0.3s;
+    transition: 0.1s;
   }
 
   .nav-menu.active {
@@ -129,7 +129,6 @@ body {
 .item {
   padding: 10px;
   position: relative;
-  transition: 0.5s ease;
 }
 
 .item img {
@@ -140,8 +139,38 @@ body {
 }
 
 .item:hover {
-  transform: scale(1.3);
-  z-index: 555555;
+  transform: scale(1.1);
+  opacity: 0.7;
+  transition: 0.3s ease;
+}
+
+/* MODAL */
+
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  padding: auto;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, .9);
+}
+
+.modal-image {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  padding: auto;
+  max-width: 70%;
+  max-height: 80%;
+}
+
+.modal.active {
+  display: flex;
+  justify-content: center;
 }
 
 
