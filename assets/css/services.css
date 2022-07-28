@@ -1,10 +1,7 @@
-:root {
-    --dark1: #100F0F;
-    --dark2: #555555;
-    --primary: #0F3D3E;
-    --secondary: #E2DCC8;
-    --light: #F1F1F1;
-  }
+
+.services-section {
+    padding-top: 70px;
+}
 
 .matrix {
  width: 95%;
