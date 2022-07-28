@@ -6,18 +6,6 @@
     --light: #F1F1F1;
   }
 
-body {
-    background-color: var(--light);
-}
-
-.nav-brand {
-    color: var(--dark2);
-}
-
-.nav-link {
-    color: var(--dark1);
-}
-
 .matrix {
  width: 95%;
  max-height: 90%;
