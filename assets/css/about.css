@@ -1,8 +1,43 @@
-
-.my-photo {
-    width: 20%;
-}
+:root {
+    --dark1: #100F0F;
+    --dark2: #555555;
+    --primary: #0F3D3E;
+    --secondary: #E2DCC8;
+    --light: #F1F1F1;
+  }
 
 .about-section {
     padding-top: 70px;
+    position: relative;
+    align-items: center;
+}
+
+.about-header {
+    width: 100%;
+    height: auto;
+    margin: 0px auto;
+    justify-content: center;
+}
+
+.profile-pic {
+    display: inline-block;
+    position: relative;
+    left: 30%;
+    width: 500px;
+    height: 500px;
+}
+
+.my-photo {
+    display: block;
+    position: relative;
+    left: 1%;
+    padding: 40px 0;
+    width: 30%;
+}
+
+.about-contents {
+    width: 100%;
+    height: auto;
+    margin: 5px auto;
+    align-items: center;
 }
