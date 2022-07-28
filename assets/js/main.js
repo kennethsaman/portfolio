@@ -1,3 +1,5 @@
+
+
 const hamburger = document.querySelector(".hamburger");
 const navMenu = document.querySelector(".nav-menu");
 const modal = document.querySelector(".modal");
@@ -27,3 +29,4 @@ document.querySelectorAll(".item").forEach(n => n.addEventListener("click", () =
     modal.classList.remove("active");
   })
 }))
+

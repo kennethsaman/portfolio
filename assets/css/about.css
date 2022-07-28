@@ -1,0 +1,27 @@
+:root {
+    --dark1: #100F0F;
+    --dark2: #555555;
+    --primary: #0F3D3E;
+    --secondary: #E2DCC8;
+    --light: #F1F1F1;
+  }
+
+body {
+    background-color: var(--light);
+}
+
+.nav-brand {
+    color: var(--dark2);
+}
+
+.nav-link {
+    color: var(--dark1);
+}
+
+.my-photo {
+    width: 20%;
+}
+
+.about-section {
+    padding-top: 70px;
+}

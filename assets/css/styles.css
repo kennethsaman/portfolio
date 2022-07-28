@@ -164,8 +164,8 @@ body {
   top: 50%;
   transform: translate(-50%, -50%);
   padding: auto;
-  max-width: 70%;
-  max-height: 80%;
+  max-width: 95%;
+  max-height: 90%;
 }
 
 .modal.active {
