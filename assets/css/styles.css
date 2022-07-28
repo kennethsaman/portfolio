@@ -198,7 +198,7 @@ body {
 
 @media (max-width: 556px) {
   .gallery {
-    column-width: 200px;
+    column-width: 202px;
   } 
 }
 
@@ -207,4 +207,9 @@ body {
     padding: 0px 10px;
     font-size: calc(1em + 0.5vw);
   }
+
+  .gallery {
+    padding-top: 0px;
+  }
+
 }
