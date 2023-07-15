@@ -46,7 +46,7 @@ body {
 }
 
 .nav-title {
-  font-size: calc(2em + 0.5vw);
+  font-size: calc(1.5em + 0.5vw);
   color: var(--dark1);
   font-family: 'Oswald', sans-serif;
   font-weight: 400;
@@ -166,6 +166,11 @@ body {
     padding-right: 0;
   }
 
+  .nav-padding {
+    padding-left: 0;
+    padding-right: 40px;
+  }
+
   .hamburger {
     display: block;
   }
@@ -216,14 +221,8 @@ body {
   } 
 }
 
-@media (max-width: 420px) {
-  .nav-brand {
-    padding: 0px 10px;
-    font-size: calc(1em + 0.5vw);
+@media (max-width: 403px) {
+  .nav-title {
+    font-size: 0;
   }
-
-  .gallery {
-    padding-top: 0px;
-  }
-
 }
