@@ -83,9 +83,9 @@ body {
 }
 
 .nav-link:hover {
-  color: var(--secondary);
+  color: var(--primary);
   font-weight: 700;
-  background-color: var(--primary);
+  background-color: var(--secondary);
 }
 
 .hamburger {
@@ -186,7 +186,7 @@ body {
     top: 50px;
     gap: 0;
     flex-direction: column;
-    background-color: var(--dark1);
+    background-color: var(--secondary);
     width: 100%;
     text-align: center;
     transition: 0.1s;
