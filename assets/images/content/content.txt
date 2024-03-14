@@ -3,6 +3,7 @@ apt101_A.jpg
 apt101_B.jpg
 apt101_C.jpg
 apt101_D.jpg
+armchair1.jpg
 bathroom29.jpg
 bedroom210.jpg
 casework4214.jpg
@@ -10,6 +11,10 @@ catbox.jpg
 cheung residence.jpg
 coffee table_A.jpg
 coffee table_B.jpg
+console angle.jpg
+console corner.jpg
+console front.jpg
+console open.jpg
 console56.jpg
 curved hallway.jpg
 desert house.jpg
