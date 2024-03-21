@@ -1,6 +1,6 @@
 :root {
     --dark1: #100F0F;
-    --dark2: #666666;
+    --dark2: #888888;
     --primary: #0F3D3E;
     --secondary: #E2DCC8;
     --light: #eeeeee;
@@ -48,7 +48,7 @@
     position: absolute;
     left: 0;
     z-index: -1;
-    background-color: #dddddd;
+    background-color: var(--dark2);
 }
 
 
@@ -86,8 +86,8 @@
 
 .header-section {
     grid-area: header;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     padding-left: 100px;
     padding-right: 0px;
 }
@@ -107,9 +107,7 @@
     font-family: 'Open Sans', serif ;
     font-size: calc(1.2em + 0.4vw);
     font-weight: 400;
-    color: var(--dark2);
-
-    /* padding-left: 30%; */
+    color: var(--light);
 
     text-align: start;
 }
@@ -148,7 +146,7 @@
     padding-right: 10%;
     padding-bottom: 100px;
 
-    color: var(--dark2);
+    color: var(--light);
 }
 
 @media (max-width: 1000px) {

@@ -1,6 +1,8 @@
 
 .services-section {
+    display: flex;
     padding-top: 70px;
+    justify-content: center;
 }
 
 .matrix {
