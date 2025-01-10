@@ -4,8 +4,11 @@ apt101_B.jpg
 apt101_C.jpg
 apt101_D.jpg
 armchair1.jpg
+art deco desk.jpg
 bathroom29.jpg
 bedroom210.jpg
+burton 1.jpg
+burton 2.jpg
 casework4214.jpg
 catbox.jpg
 cheung residence.jpg
@@ -54,6 +57,10 @@ siy house A.jpg
 siy house B.jpg
 sjhm parish.jpg
 stairs58.jpg
+teresa ext 1.jpg
+teresa ext 2.jpg
+teresa ext 3.jpg
+tv scene.jpg
 tvcab_A.jpg
 tvcab_B.jpg
 watch cabinet_A.jpg
